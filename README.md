@@ -1,0 +1,1 @@
+# This repository contains the projects developed during the Database course in semester 2027-1.
